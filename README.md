@@ -46,7 +46,7 @@ For support, email chloe@nebula.bio or join our discord: discord.nebula.bio
 # Deployment
 
 ## Quick Deployment Options
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/NebulaServices/Nebula)
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Thesunmethod/Nebula)
 <br>
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/NebulaServices/Nebula)
 <br>
